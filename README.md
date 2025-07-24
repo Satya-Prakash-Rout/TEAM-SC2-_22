@@ -1,4 +1,12 @@
-# TEAM(SC2)_22
+[TEAM(SE2)_22.pptx](https://github.com/user-attachments/files/21417413/TEAM.SE2._22.pptx)# TEAM(SC2)_22
+
+# problem statement
+Predict Hospital Readmission Risk for Patients with Chronic Conditions
+
+Satya Prakash Rout(23cse311)
+Digbijay Behera(23cse310)
+Biswajit Swain(23cse168)
+Kunal Pritam Prida(23cse326)
 
 # Hospital Readmission Risk Prediction
 
@@ -30,3 +38,6 @@ cd Hospital-Readmission-Prediction
 
 Run the Streamlit app:
 streamlit run app.py
+
+[TEAM(SE2)_22.pptx](https://github.com/user-attachments/files/21417417/TEAM.SE2._22.pptx)
+
