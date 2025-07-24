@@ -1,4 +1,6 @@
-[TEAM(SE2)_22.pptx](https://github.com/user-attachments/files/21417413/TEAM.SE2._22.pptx)# TEAM(SC2)_22
+# TEAM(SC2)_22
+
+[TEAM(SE2)_22.pptx](https://github.com/user-attachments/files/21417413/TEAM.SE2._22.pptx)
 
 # problem statement
 Predict Hospital Readmission Risk for Patients with Chronic Conditions
@@ -39,5 +41,5 @@ cd Hospital-Readmission-Prediction
 Run the Streamlit app:
 streamlit run app.py
 
-[TEAM(SE2)_22.pptx](https://github.com/user-attachments/files/21417417/TEAM.SE2._22.pptx)
+
 
