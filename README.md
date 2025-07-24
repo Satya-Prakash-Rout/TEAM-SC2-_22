@@ -1,2 +1,2 @@
-# TEAM-SC2-_22
+# TEAM(SC2)_22
 Predicting Hospital Readmission Risk
