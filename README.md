@@ -1,14 +1,19 @@
 # TEAM(SC2)_22
 
-[TEAM(SE2)_22.pptx](https://github.com/user-attachments/files/21417413/TEAM.SE2._22.pptx)
-
 # problem statement
 Predict Hospital Readmission Risk for Patients with Chronic Conditions
+
+#PPT
+[TEAM(SE2)_22.pptx](https://github.com/user-attachments/files/21417413/TEAM.SE2._22.pptx)
 
 Satya Prakash Rout(23cse311)
 Digbijay Behera(23cse310)
 Biswajit Swain(23cse168)
 Kunal Pritam Prida(23cse326)
+
+#video
+https://drive.google.com/file/d/1u0XuS2PFkobqLGwNUfjkWLTp2vD4FvtU/view?usp=drive_link
+
 
 # Hospital Readmission Risk Prediction
 
